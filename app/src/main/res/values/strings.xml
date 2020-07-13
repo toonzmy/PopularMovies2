@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PopularMovies2</string>
+
+    <string name="error_message">Failed to get movies. Please try again.</string>
+    <string name="no_trailers">No trailers available for this movie.</string>
+    <string name="reviews_label">Reviews</string>
+    <string name="trailers_label">Trailers</string>
+    <string name="make_fav_btn_text">MAKE AS FAVORITE</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="favorite_title">Favorite</string>
+</resources>
